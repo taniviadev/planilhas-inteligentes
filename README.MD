@@ -74,8 +74,6 @@ Tentativa inicial de replicar o processo no Calc foi infrutífera, devido a limi
 
 - Explorar outras ferramentas de BI como Power BI ou Tableau.
 
-## **👤 Contato**
-
 ## **📂 Estrutura do Repositório** 
 
 ```plaintext
@@ -87,7 +85,7 @@ Tentativa inicial de replicar o processo no Calc foi infrutífera, devido a limi
 
 Conecte-se comigo e acompanhe outros projetos!
 
-## **📬 Contato**
+## **👤 Contato**
 - :octocat: [GitHub](https://github.com/taniviadev)
 - :link: [LinkedIn](https://linkedin.com/in/tanivia)
 
